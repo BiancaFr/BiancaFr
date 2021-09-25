@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/BiancaFr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaFr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFr&layout=compact&langs_count=16&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFr&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
