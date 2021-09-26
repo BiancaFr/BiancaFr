@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/BiancaFr">
   <img height="180em" align ="center"  src="https://github-readme-stats.vercel.app/api?username=BiancaFr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" align ="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFr&layout=compact&langs_count=16&theme=radical"/>
+  <img height="166em" align ="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaFr&layout=compact&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
