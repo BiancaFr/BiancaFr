@@ -2,7 +2,7 @@
 
 
 - 🔭 Back-end, BFF, Front-end 
-- 📚 I’m currently learning  Java, JS and Japanese
+- 📚 I’m currently learning  Java, SQL, C++, Python, HTML/CSS
 - 🗨 I speak Portuguese, French and English
 - ⚡ Fun fact: I love Footbal ⚽❤
 
