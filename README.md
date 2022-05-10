@@ -1,7 +1,7 @@
 ### Hi!! I'm Bia! 😊 
 
 
-- 📚 I’m currently learning  Java, SQL, ORACLE, C, C++, Python, HTML/CSS, JS
+- 📚 Java, SQL, ORACLE, C, C++, Python, HTML/CSS, JS
 - 🗨 I speak Portuguese, French and English
 - ⚡ Fun fact: I love Footbal ⚽❤
 
