@@ -5,7 +5,6 @@
 - 🗨 I speak Portuguese, French and English
 - ⚡ Fun fact: I love Footbal ⚽❤
 
-
 <div>
   <a href="https://github.com/BiancaFr">
   <img height="180em" align ="center"  src="https://github-readme-stats.vercel.app/api?username=BiancaFr&show_icons=true&theme=radical"/>
